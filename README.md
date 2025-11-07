@@ -1,2 +1,2 @@
-# Basics-of-Data-Analytics
+# Data-Analytics
 PW Skill Assignment
